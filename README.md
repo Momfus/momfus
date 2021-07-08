@@ -7,6 +7,11 @@
     * Angular and ReactJS courses to improve my knowledge with those tools.
     * In diverse projects for USA and Canada companies (I change jobs from time to time).
   
+  - 🤓 I’m currently learning:
+    * Unreal Engine
+    * Shaders using [GMS2](https://www.yoyogames.com/)
+    * How to cook and not set everything on fire.
+
   - ⚡ Other things:
     * I have a radio program at UTN and video game news website called [Gamer Con Mate](gamerconmate.com)
     * I love to play piano and drink ["Mate"](https://en.wikipedia.org/wiki/Mate_(drink))
