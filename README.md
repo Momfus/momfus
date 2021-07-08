@@ -1,16 +1,16 @@
-### Hi there 👋
+### Oh! Hello there /*using young Obi-Wan's voice*/ 👋 
 
-<!--
-**Momfus/momfus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I'm **Momfus** (my glamorous nickname), who love three things: videogames, programming and cats. I'm currently finishing my studies in systems engineering at [UTN FRM](http://www.frm.utn.edu.ar/) (Mendoza's National Technology University from Argentina) and working mainly with Angular/Javascript. Also I work under contract or in freelance mode. 
+  
+  - 🔭 I’m currently working on:
+    * Project for [Crios's Devs](https://criosdevs.com/) in Game Maker Studio 2
+    * Angular and ReactJS courses to improve my knowledge with those tools.
+    * In diverse projects for USA and Canada companies (I change jobs from time to time).
+  
+  - ⚡ Other things:
+    * I have a radio program at UTN and video game news website called [Gamer Con Mate](gamerconmate.com)
+    * I love to play piano and drink ["Mate"](https://en.wikipedia.org/wiki/Mate_(drink))
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - 📫 How to reach me:
+    * [LinkedIn](https://www.linkedin.com/in/julianmunozvelazquez/)
+    * [Twitter](https://twitter.com/momfus)
