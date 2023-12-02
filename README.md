@@ -6,10 +6,11 @@
     * Project for [Crios's Devs](https://criosdevs.com/) in Game Maker Studio 2
     * Angular and ReactJS courses to improve my knowledge with those tools.
     * In diverse projects for USA and Canada companies (I change jobs from time to time).
-    * Working with some low-code tools for external clients 
+    * Working with Angular and React for clients 
   
   - 🤓 I’m currently learning:
     * Unreal Engine
+    * ReactJs
     * Shaders using [GMS2](https://www.yoyogames.com/)
     * How to cook and not set everything on fire.
 
