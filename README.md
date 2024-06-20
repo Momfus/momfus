@@ -17,7 +17,7 @@ I'm **Momfus** (my glamorous nickname), and I have a passion for three things: v
 
 ## 🛠️ Skills
 <p align="center">
-  <a href="#">
+  <a href="https://allmylinks.com/momfus">
     <img src="https://skillicons.dev/icons?i=angular,react,html,js,ts,gamemakerstudio,css,bootstrap,tailwind,git,github,gitlab,bitbucket,vscode,cypress,firebase,jenkins,figma,ps,postman&perline=10&theme=light" />
   </a>
 </p>
