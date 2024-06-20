@@ -1,7 +1,7 @@
 ### Oh! Hello there /*using young Obi-Wan's voice*/ 👋 
 
 
-I'm **Momfus** (my glamorous nickname), who loves three things: videogames, programming, and cats. I graduated as a Systems Engineer from [UTN FRM](http://www.frm.utn.edu.ar/) (Mendoza's National Technology University from Argentina) and work mainly with Angular/JavaScript. Additionally, I take on projects under contract or in freelance mode.
+I'm **Momfus** (my glamorous nickname), and I have a passion for three things: video games, programming, and cats. I hold a degree in Systems Engineering from the National Technological University of Mendoza (UTN FRM) in Argentina. My professional expertise lies primarily in working with Angular and JavaScript. In addition to my main role, I also undertake contract and freelance projects.
 
 
  ## 🌐 Contact
