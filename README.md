@@ -15,7 +15,7 @@ I'm **Momfus** (my glamorous nickname), who loves three things: videogames, prog
 </p>
 
 
-## Skills
+## 🛠️ Skills
 <p align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=angular,react,html,js,ts,gamemakerstudio,css,bootstrap,tailwind,git,github,gitlab,bitbucket,vscode,cypress,firebase,jenkins,figma,ps,postman&perline=10&theme=light" />
