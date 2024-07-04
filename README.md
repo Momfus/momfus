@@ -37,7 +37,7 @@ ______
     * How to cook and not set everything on fire.
 
   - ⚡ Other things:
-    * I have a radio program at UTN and video game news website called [Gamer Con Mate](gamerconmate.com)
+    * I have a radio program at UTN and video game news website called [Gamer Con Mate](https://gamerconmate.com/)
     * I love to play piano and drink ["Mate"](https://en.wikipedia.org/wiki/Mate_(drink)) 🧉
 
     
