@@ -25,7 +25,7 @@ I'm **Momfus** (my glamorous nickname), and I have a passion for three things: v
 
 ______
   - 🔭 I’m currently working on:
-    * Project for [Crios's Devs](https://criosdevs.com/) using Game Maker Studio.
+    * Project for [Crios's Devs](https://criosdevsgames.com/) using Game Maker Studio.
     * Angular and ReactJS courses to improve my knowledge with those tools.
     * In diverse projects for USA and Canada companies (I change jobs from time to time).
     * Working with Angular and React for clients 
